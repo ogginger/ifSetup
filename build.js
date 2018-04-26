@@ -2,7 +2,6 @@
 /*
 */ 
 ({
-    baseUrl: ".",
     paths: {
 	"underscore": "lib/underscore.min",
 	"jquery": "empty:",
